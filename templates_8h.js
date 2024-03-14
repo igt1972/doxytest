@@ -19,5 +19,9 @@ var templates_8h =
       [ "BOOL", "templates_8h.html#ab46553f2ee78cd0e683b7762c8cab583ae663dbb8f8244e122acb5bd6b2c216e1", null ],
       [ "TIME", "templates_8h.html#ab46553f2ee78cd0e683b7762c8cab583ae9e4c627760f36823cdd153c24229157", null ],
       [ "DATE", "templates_8h.html#ab46553f2ee78cd0e683b7762c8cab583a0ace72efd9e987dfd807365d0ca50141", null ]
-    ] ]
+    ] ],
+    [ "fase_passa_a", "templates_8h.html#af69f8cf7db5edf96ffc695b525d0ce99", null ],
+    [ "stato_passa_a", "templates_8h.html#a4281137c28aa517371e9f76ae75a4e0d", null ],
+    [ "SY_StartFase", "templates_8h.html#a23584f84d4df4ab3b6351689afc59d06", null ],
+    [ "SY_StopFase", "templates_8h.html#a48309d28e5639880a56cd865db92cffc", null ]
 ];

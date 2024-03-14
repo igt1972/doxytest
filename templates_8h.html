@@ -94,7 +94,8 @@ $(function(){initNavTree('templates_8h.html',''); initResizable(); });
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">templates.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
@@ -134,6 +135,21 @@ Enumerations</h2></td></tr>
 , <a class="el" href="#ab46553f2ee78cd0e683b7762c8cab583a0ace72efd9e987dfd807365d0ca50141">DATE</a>
  }</td></tr>
 <tr class="separator:ab46553f2ee78cd0e683b7762c8cab583"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:af69f8cf7db5edf96ffc695b525d0ce99" id="r_af69f8cf7db5edf96ffc695b525d0ce99"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af69f8cf7db5edf96ffc695b525d0ce99">fase_passa_a</a> (int fase, <a class="el" href="#ac03330cbf67339b12f43132423b40c1f">sy_active_t</a> fase_st)</td></tr>
+<tr class="memdesc:af69f8cf7db5edf96ffc695b525d0ce99"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cambia lo stato di esecuzione di una Fase.  <br /></td></tr>
+<tr class="separator:af69f8cf7db5edf96ffc695b525d0ce99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23584f84d4df4ab3b6351689afc59d06" id="r_a23584f84d4df4ab3b6351689afc59d06"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a23584f84d4df4ab3b6351689afc59d06">SY_StartFase</a> (int fase)</td></tr>
+<tr class="memdesc:a23584f84d4df4ab3b6351689afc59d06"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attiva una Fase.  <br /></td></tr>
+<tr class="separator:a23584f84d4df4ab3b6351689afc59d06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48309d28e5639880a56cd865db92cffc" id="r_a48309d28e5639880a56cd865db92cffc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a48309d28e5639880a56cd865db92cffc">SY_StopFase</a> (int fase)</td></tr>
+<tr class="memdesc:a48309d28e5639880a56cd865db92cffc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Disattiva una Fase.  <br /></td></tr>
+<tr class="separator:a48309d28e5639880a56cd865db92cffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4281137c28aa517371e9f76ae75a4e0d" id="r_a4281137c28aa517371e9f76ae75a4e0d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a4281137c28aa517371e9f76ae75a4e0d">stato_passa_a</a> (int stato, <a class="el" href="#ac03330cbf67339b12f43132423b40c1f">sy_active_t</a> stato_st)</td></tr>
+<tr class="memdesc:a4281137c28aa517371e9f76ae75a4e0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cambia lo stato di esecuzione di uno Stato.  <br /></td></tr>
+<tr class="separator:a4281137c28aa517371e9f76ae75a4e0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="a384a054aed93f08b936ef4a383705945" name="a384a054aed93f08b936ef4a383705945"></a>
@@ -230,6 +246,125 @@ Enumerations</h2></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="templates_8h_source.html#l00026">26</a> of file <a class="el" href="templates_8h_source.html">templates.h</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="af69f8cf7db5edf96ffc695b525d0ce99" name="af69f8cf7db5edf96ffc695b525d0ce99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af69f8cf7db5edf96ffc695b525d0ce99">&#9670;&#160;</a></span>fase_passa_a()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void fase_passa_a </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>fase</em>, </span></td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="#ac03330cbf67339b12f43132423b40c1f">sy_active_t</a></td>          <td class="paramname"><span class="paramname"><em>fase_st</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Cambia lo stato di esecuzione di una Fase. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">fase</td><td>indice della Fase </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">fase_st</td><td>execution status da impostare </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="templates_8c_source.html#l00011">11</a> of file <a class="el" href="templates_8c_source.html">templates.c</a>.</p>
+
+</div>
+</div>
+<a id="a4281137c28aa517371e9f76ae75a4e0d" name="a4281137c28aa517371e9f76ae75a4e0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4281137c28aa517371e9f76ae75a4e0d">&#9670;&#160;</a></span>stato_passa_a()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void stato_passa_a </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>stato</em>, </span></td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="#ac03330cbf67339b12f43132423b40c1f">sy_active_t</a></td>          <td class="paramname"><span class="paramname"><em>stato_st</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Cambia lo stato di esecuzione di uno Stato. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">stato</td><td>indice dello Stato </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">stato_st</td><td>execution status da impostare </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="templates_8c_source.html#l00053">53</a> of file <a class="el" href="templates_8c_source.html">templates.c</a>.</p>
+
+</div>
+</div>
+<a id="a23584f84d4df4ab3b6351689afc59d06" name="a23584f84d4df4ab3b6351689afc59d06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23584f84d4df4ab3b6351689afc59d06">&#9670;&#160;</a></span>SY_StartFase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SY_StartFase </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>fase</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Attiva una Fase. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">fase</td><td>indice della Fase da attivare </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="templates_8c_source.html#l00030">30</a> of file <a class="el" href="templates_8c_source.html">templates.c</a>.</p>
+
+</div>
+</div>
+<a id="a48309d28e5639880a56cd865db92cffc" name="a48309d28e5639880a56cd865db92cffc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48309d28e5639880a56cd865db92cffc">&#9670;&#160;</a></span>SY_StopFase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SY_StopFase </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>fase</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Disattiva una Fase. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">fase</td><td>indice della Fase da disattivare </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="templates_8c_source.html#l00040">40</a> of file <a class="el" href="templates_8c_source.html">templates.c</a>.</p>
 
 </div>
 </div>
