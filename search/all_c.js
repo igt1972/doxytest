@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['startfase_0',['StartFase',['../pokayoke_8h.html#a50914efee3c762a13dc1b6c0d3e50357',1,'StartFase(int fase):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a50914efee3c762a13dc1b6c0d3e50357',1,'StartFase(int fase):&#160;pokayokeEngine.c'],['../templates_8c.html#a50914efee3c762a13dc1b6c0d3e50357',1,'StartFase(int fase):&#160;templates.c']]],
+  ['starting_1',['STARTING',['../pokayoke_8h.html#a12100bc8af5d14be6a362fa0bff03ea7a88bb48a005cb978e429b9dc98d2480ec',1,'pokayoke.h']]],
+  ['startpokayokescheduler_2',['startPokayokeScheduler',['../pokayoke_8h.html#a18b25c502cba380a8fd636dfa8a1ad09',1,'startPokayokeScheduler(void):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a7bbf083308068fd6e729f21b5da2e0a8',1,'startPokayokeScheduler():&#160;pokayokeEngine.c']]],
+  ['startstato_3',['StartStato',['../pokayoke_8h.html#a8459843e8d29d574deced52c844d33c8',1,'StartStato(int fase, int stato):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a8459843e8d29d574deced52c844d33c8',1,'StartStato(int fase, int stato):&#160;pokayokeEngine.c'],['../templates_8c.html#a8459843e8d29d574deced52c844d33c8',1,'StartStato(int fase, int stato):&#160;templates.c']]],
+  ['startstep_4',['StartStep',['../pokayoke_8h.html#aa3781fb0c16cc9aab225ef5e16b49f04',1,'StartStep(int fase, int stato, int step):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#aa3781fb0c16cc9aab225ef5e16b49f04',1,'StartStep(int fase, int stato, int step):&#160;pokayokeEngine.c'],['../templates_8c.html#aa3781fb0c16cc9aab225ef5e16b49f04',1,'StartStep(int fase, int stato, int step):&#160;templates.c']]],
+  ['stati_5',['stati',['../struct_fase_controller__t.html#afdf4344058fded160434c311a69fb371',1,'FaseController_t']]],
+  ['statifase0_6',['statiFase0',['../application_8c.html#a9911704a39ce0683f9948675a457dc5c',1,'application.c']]],
+  ['stato_7',['STATO',['../pokayoke_8h.html#a882a4ebb85d7a1ed11e31050c4657c2faa2f6ef0fe818d516b5bbfc3048107be7',1,'pokayoke.h']]],
+  ['stato_5favvio_8',['stato_avvio',['../struct_fase_controller__t.html#ac30432769418a9e69108fc1b048f700f',1,'FaseController_t']]],
+  ['stato_5favvio_9',['STATO_AVVIO',['../pokayoke_8h.html#a882a4ebb85d7a1ed11e31050c4657c2fa69c57b514cd179b9b288292fafdc091b',1,'pokayoke.h']]],
+  ['statocontroller_5ft_10',['StatoController_t',['../struct_stato_controller__t.html',1,'']]],
+  ['status_11',['status',['../struct_stato_controller__t.html#aac5e7ff1ecfdb722cfeeebd91495bf13',1,'StatoController_t::status'],['../struct_fase_controller__t.html#ac692839eb3ab29413f9760e7dc400010',1,'FaseController_t::status']]],
+  ['statusexec_5ft_12',['statusexec_t',['../pokayoke_8h.html#a12100bc8af5d14be6a362fa0bff03ea7',1,'pokayoke.h']]],
+  ['step_13',['STEP',['../pokayoke_8h.html#a882a4ebb85d7a1ed11e31050c4657c2fac0ba526afb7f54207517b48a892961c2',1,'pokayoke.h']]],
+  ['stepcounter_14',['stepCounter',['../struct_stato_controller__t.html#a988853a5cdc9aaa463e6296c5414bf49',1,'StatoController_t']]],
+  ['stepparams_5ft_15',['StepParams_t',['../struct_step_params__t.html',1,'']]],
+  ['stop_16',['STOP',['../pokayoke_8h.html#a12100bc8af5d14be6a362fa0bff03ea7a679ee5320d66c8322e310daeb2ee99b8',1,'pokayoke.h']]],
+  ['stopfase_17',['StopFase',['../pokayoke_8h.html#a03679ff273406e43fb745dd3142b3120',1,'StopFase(int fase):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a03679ff273406e43fb745dd3142b3120',1,'StopFase(int fase):&#160;pokayokeEngine.c'],['../templates_8c.html#a03679ff273406e43fb745dd3142b3120',1,'StopFase(int fase):&#160;templates.c']]],
+  ['stopstato_18',['StopStato',['../pokayoke_8h.html#a596a3527f0f2ca34ba3237442b86a2d2',1,'StopStato(int fase, int stato):&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a596a3527f0f2ca34ba3237442b86a2d2',1,'StopStato(int fase, int stato):&#160;pokayokeEngine.c'],['../templates_8c.html#a596a3527f0f2ca34ba3237442b86a2d2',1,'StopStato(int fase, int stato):&#160;templates.c']]],
+  ['sy_5factive_5ft_19',['sy_active_t',['../templates_8h.html#ac03330cbf67339b12f43132423b40c1f',1,'templates.h']]],
+  ['sy_5fenable_5ft_20',['sy_enable_t',['../templates_8h.html#a21c84b7255ccad481b76b06d92a42f0a',1,'templates.h']]],
+  ['sy_5fonoff_5ft_21',['sy_onoff_t',['../templates_8h.html#a088a9e6d0ecd465e89d2fd6c7a3f9dac',1,'templates.h']]],
+  ['sy_5fvar_5f_22',['sy_var_',['../structsy__var__.html',1,'']]],
+  ['sy_5fvar_5ft_23',['sy_var_t',['../templates_8h.html#a384a054aed93f08b936ef4a383705945',1,'templates.h']]],
+  ['sy_5fvar_5ftype_5ft_24',['sy_var_type_t',['../templates_8h.html#ab46553f2ee78cd0e683b7762c8cab583',1,'templates.h']]]
+];
