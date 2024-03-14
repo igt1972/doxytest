@@ -7,7 +7,8 @@ var searchData=
   ['fase0_5fstatoavvio_4',['fase0_statoAvvio',['../application_8c.html#a482d4259a26263aa4ab753841c230bb7',1,'application.c']]],
   ['fase_5fpassa_5fa_5',['fase_passa_a',['../templates_8c.html#af69f8cf7db5edf96ffc695b525d0ce99',1,'fase_passa_a(int fase, sy_active_t fase_st):&#160;templates.c'],['../templates_8h.html#af69f8cf7db5edf96ffc695b525d0ce99',1,'fase_passa_a(int fase, sy_active_t fase_st):&#160;templates.c']]],
   ['fasecontroller_5ft_6',['FaseController_t',['../struct_fase_controller__t.html',1,'']]],
-  ['fasi_7',['fasi',['../application_8c.html#a0f38a8ae548bf30b96700341256252d9',1,'fasi:&#160;application.c'],['../pokayoke_8h.html#a0f38a8ae548bf30b96700341256252d9',1,'fasi:&#160;application.c']]],
-  ['fasiclength_8',['fasicLength',['../application_8c.html#ad9c8e6d55f63e5aa66271a904f974fe9',1,'fasicLength:&#160;application.c'],['../pokayoke_8h.html#ad9c8e6d55f63e5aa66271a904f974fe9',1,'fasicLength:&#160;application.c']]],
-  ['fvalue_9',['fValue',['../union__var.html#a19fe8cdb293cf206581c4bfc67389de6',1,'_var']]]
+  ['fasecounter_7',['faseCounter',['../pokayoke_8h.html#a192e3b0f0fbbdd664aec2821543475cc',1,'faseCounter:&#160;pokayokeEngine.c'],['../pokayoke_engine_8c.html#a192e3b0f0fbbdd664aec2821543475cc',1,'faseCounter:&#160;pokayokeEngine.c']]],
+  ['fasi_8',['fasi',['../application_8c.html#a0f38a8ae548bf30b96700341256252d9',1,'fasi:&#160;application.c'],['../pokayoke_8h.html#a0f38a8ae548bf30b96700341256252d9',1,'fasi:&#160;application.c']]],
+  ['fasiclength_9',['fasicLength',['../application_8c.html#ad9c8e6d55f63e5aa66271a904f974fe9',1,'fasicLength:&#160;application.c'],['../pokayoke_8h.html#ad9c8e6d55f63e5aa66271a904f974fe9',1,'fasicLength:&#160;application.c']]],
+  ['fvalue_10',['fValue',['../union__var.html#a19fe8cdb293cf206581c4bfc67389de6',1,'_var']]]
 ];

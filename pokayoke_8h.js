@@ -31,6 +31,9 @@ var pokayoke_8h =
     [ "StopStato", "pokayoke_8h.html#a596a3527f0f2ca34ba3237442b86a2d2", null ],
     [ "applicationLogic", "pokayoke_8h.html#a470f7f113f442c34ca4b8f1787e3a2e0", null ],
     [ "applicationLogicLength", "pokayoke_8h.html#a3321129afb1b7c1c460695e0b0d6643d", null ],
+    [ "faseCounter", "pokayoke_8h.html#a192e3b0f0fbbdd664aec2821543475cc", null ],
     [ "fasi", "pokayoke_8h.html#a0f38a8ae548bf30b96700341256252d9", null ],
-    [ "fasicLength", "pokayoke_8h.html#ad9c8e6d55f63e5aa66271a904f974fe9", null ]
+    [ "fasicLength", "pokayoke_8h.html#ad9c8e6d55f63e5aa66271a904f974fe9", null ],
+    [ "statoCounter", "pokayoke_8h.html#a9f77d82ab0f3a797e80d6b60c90489da", null ],
+    [ "stepCounter", "pokayoke_8h.html#a58b9fe0d8bdc4ddc63eb62dcd3413b10", null ]
 ];
